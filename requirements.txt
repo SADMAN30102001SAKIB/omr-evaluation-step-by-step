@@ -1,2 +1,4 @@
 opencv-python==4.9.0.80
 numpy==1.26.4
+pillow==10.4.0
+FPDF2==2.7.8
